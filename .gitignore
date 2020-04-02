@@ -1,0 +1,11 @@
+*.swo
+*.swp
+.DS_Store
+.env
+.idea
+.sandbox.env
+.vagrant
+composer.lock
+report
+sandbox
+vendor
